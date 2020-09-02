@@ -1,5 +1,6 @@
-# Jetson Nano Smart Cam
+# Nano Smart Cam
 
+Author: [Dylan Tong](https://www.linkedin.com/in/dylantong/)
 Questions: dylatong@amazon.com
 
 ### Fast multi-object detection and tracking
